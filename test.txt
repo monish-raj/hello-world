@@ -1,0 +1,2 @@
+
+Creating test.txt to test git --amend capability
